@@ -1,4 +1,7 @@
+# This is the code base for the first milestine assigment from advanced python course on udemy 
 # Specifically for the iPython Notebook environment for clearing output
+
+
 from IPython.display import clear_output
 import random
 
